@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [DnA](https://github.com/mercedes-benz/DnA)
 
-- 👨‍💻 All of my projects are available at [https://github.com/sathishkumar-p](https://github.com/sathishkumar-p)
+- 👨‍💻 All of my projects are available at [my repo](https://github.com/sathishkumar-p)
 
 - 💬 Ask me about **DevOps tools, Kubernetes and Azure**
 
