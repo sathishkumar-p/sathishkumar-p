@@ -16,8 +16,9 @@
 - 💬 Ask me about **DevOps tools, Kubernetes and Azure**
 
 - 📫 How to reach me **sathishkumarkevin@hotmail.com**
+- ⚽ My hobbies are Adventure Trip 🏄‍♂️, Night Long drive 🚗, and watching movie 🎦
 
-- ⚡ Fun fact **I am not robot 😉**
+- ⚡ Fun fact **DevOps is Nice! Yes? 🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
