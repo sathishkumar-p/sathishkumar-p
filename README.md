@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sathishkumarkevin@hotmail.com**
 
-- ⚡ Fun fact **I am not robot 😊**
+- ⚡ Fun fact **I am not robot 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
