@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathishkumar</h1>
-<h3 align="center">call me Sat 😉</h3>
-<h3 align="center">A young-dumb 🤓 DevOps Engineer from India</h3>
+<h3 align="center">Call me Sat 😉. A young-dumb 🤓 DevOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathishkumar-p&label=Profile%20views&color=0e75b6&style=flat" alt="sathishkumar-p" /> </p>
 
