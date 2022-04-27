@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [DnA](https://github.com/mercedes-benz/DnA)
 
-- 🌱 I’m currently learning **Go, AWS**
+- 🌱 I’m currently learning **AZ 104**
 
 - 👯 I’m looking to collaborate on [DnA](https://github.com/mercedes-benz/DnA)
 
